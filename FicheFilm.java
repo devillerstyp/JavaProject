@@ -13,10 +13,13 @@ public class FicheFilm {
 			
 		// Affichage des variables
 			
+		System.out.println(TitreFilm + "\n"+StatusFilm +"\n"+ AnneeDeSortie +"\n"+NoteFilm);	
+		/*
 		System.out.println(TitreFilm);
 		System.out.println(StatusFilm);
 		System.out.println(AnneeDeSortie);
 		System.out.println(NoteFilm );
+		*/
 		
 	}
 
